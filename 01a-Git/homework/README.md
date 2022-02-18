@@ -74,6 +74,7 @@ En la nueva pantalla, vas a tener que seleccionar el nombre de tu nuevo repo. Cr
 
 Luego elegí la visibilidad del proyecto como público (para tener repos privados tenes que pagar el premium de github).
 
+
 Por último haz clic en **Crear repositorio**.
 
 Listo ya tenes tu propio repo. Ahora vas a poder clonarlo con las intrucciones de más abajo.
@@ -121,7 +122,7 @@ Deberías ver algo parecido a estas líneas:
 
 ```bash
   Changes not staged for commit:
-    (use "git add <file>..." to update what will be committed)
+   git (use "git add <file>..." to update what will be committed)
     (use "git checkout -- <file>..." to discard changes in working directory)
 
     modified:   README.md
